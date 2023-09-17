@@ -1,0 +1,6 @@
+name: CandLand-CapturePoint
+version: '${project.version}'
+main: me.sfclog.candlandcapturepoint.Main
+api-version: '1.13'
+commands:
+  capturepoint:
